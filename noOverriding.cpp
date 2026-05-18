@@ -27,3 +27,13 @@ cout << "Hallo saya Function dari derived Class";
 }
 
 };
+
+int main(){
+
+derivedClass a;
+
+a.perkenalan1();
+
+return 0;
+
+}

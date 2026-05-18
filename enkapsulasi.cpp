@@ -24,3 +24,8 @@ return saklarNo[i];
 }
 
 };
+
+int main(){
+
+remoteLampu lampuRumah;
+}
